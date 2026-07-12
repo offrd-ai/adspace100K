@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://champaignradon.com/sitemap.xml
