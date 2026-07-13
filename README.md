@@ -59,7 +59,7 @@ Once you've purchased the domains:
 
 Search-and-replace in each site folder:
 
-- **Phone number:** the placeholder (e.g. `(563) 213-0199` / `tel:+15632130199`) → your
+- **Phone number:** the placeholder (e.g. `(563) 239-3724` / `tel:+15632393724`) → your
   **CallRail tracking number**. This is what makes leads measurable and rentable.
 - **Form endpoint:** `https://formspree.io/f/YOUR_FORM_ID` → a real
   [Formspree](https://formspree.io) form ID (or wire the form to your CRM).
